@@ -1,4 +1,4 @@
-# Hi, I'm Geo 👋
+# Hi, I'm Geo (Justin) 👋
 
 CS student at Boston University, graduating May 2026. I build full-stack web and mobile applications, with a focus on clean architecture and shipping things that actually work.
 
