@@ -2,7 +2,7 @@
 
 CS student at Boston University, graduating May 2026. I build full-stack web and mobile applications, with a focus on clean architecture and shipping things that actually work.
 
-Currently cofounder at **Axira**, where I work directly with clients to scope and build their products from the ground up.
+Currently am part of **Axira**, where I work to build clients' products from the ground up.
 
 ---
 
