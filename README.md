@@ -46,7 +46,6 @@ Auth with SLP and administrator role enforcement across all data models
 
 - **Republic of Korea Air Force** — F-35A weapons systems maintenance (2021–2023)
 - **Kookmin University** — Co-authored a peer-reviewed publication on pseudocapacitor electrodes (JECST, 2020)
-- **BU iGEM** — Built a Python image processing pipeline for 20,000+ microscopy images; Best Software Tool nomination
 
 ---
 
